@@ -1,8 +1,9 @@
 package com.tecsup.lab01.model;
 
 public class modelo_cubas {
-	public String nombre;
-	public String apllido;
-	public int edad;
+	protected static String nombre;
+	protected static String apellido;
+	protected static int edad;
+	
 
 }
